@@ -34,4 +34,4 @@
 
 # Семинары
 ## Семинар 1: Введение в PyTorch
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars/blob/main/seminar_1/MTAI2026_Seminar_1_Introduction_to_pytorch.ipynb)
