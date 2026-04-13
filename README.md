@@ -42,3 +42,9 @@
 
 ## Семинар 3: GPGPU (Cuda и Triton)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MPSOhl1tdJzHJDoL4lvhC_hB6sxlODj0#scrollTo=lV7C2FyL-wLh)
+
+## Семинар 4: Prunning 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars/blob/main/seminar_4/Pruning.ipynb)
+
+## Семинар 5: CPU Quantization
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars/blob/main/seminar_5/Post_Training_Quantization.ipynb)
